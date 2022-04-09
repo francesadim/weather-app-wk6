@@ -5,6 +5,9 @@
   display: block;
   margin: 0 auto;
 }
+search-form {
+  margin: 10px;
+}
 button {
   display: block;
   margin: 0 auto;
